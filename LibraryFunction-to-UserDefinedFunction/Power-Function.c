@@ -47,10 +47,7 @@ float power(float base, float exponent){
 Library Function: pow(base, exponent);
 Header File: <math.h>
 ----------------------------------------------------------------------------------------------------------------------
-Description: Given two numbers base and exponent, the C++or C pow() function finds x raised to the power of y i.e. x^y. 
-Basically in C/C++, the exponent value is calculated using the pow() function. The pow() function is used to calculate 
-the power of a number in C/C++. It takes double as input and returns double as output.
-We have to use #include<math.h> in C/C++  to use that pow() function in our C/C++ program.
+Description: Given two numbers base and exponent, the C++or C pow() function finds x raised to the power of y i.e. x^y. Basically in C/C++, the exponent value is calculated using the pow() function. The pow() function is used to calculate the power of a number in C/C++. It takes double as input and returns double as output. We have to use #include<math.h> in C/C++  to use that pow() function in our C/C++ program.
 
 This method takes only two arguments:
 x: floating point base value
